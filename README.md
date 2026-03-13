@@ -1,6 +1,7 @@
 #  Mean and variance of a discrete  distribution
 
 NAME: ABDULRAWOOF
+
 REG: 212224230003
 
 # Aim : 
