@@ -86,3 +86,4 @@ The Standard deviation of arrival form feeder is 1.326650
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
+GITHUBLINK:https://github.com/ABDULRAWOOF2735/Mean-and-Variance/blob/main/README.md
