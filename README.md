@@ -1,8 +1,8 @@
 #  Mean and variance of a discrete  distribution
-```
+
 NAME: ABDULRAWOOF
 REG: 212224230003
-```
+
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
